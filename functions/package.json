@@ -13,7 +13,7 @@
   "main": "lib/functions/src/index.js",
   "dependencies": {
     "api": "^4.0.0",
-    "axios": "^0.21.1",
+    "axios": "^0.32.0",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.27.1",
     "file-type": "^16.5.3",
@@ -23,7 +23,7 @@
     "got": "^11.8.2",
     "image-size": "^1.0.0",
     "isomorphic-unfetch": "^3.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "node-abort-controller": "^2.0.0",
     "node-fetch": "^2.6.1",
     "puppeteer": "^10.4.0",
